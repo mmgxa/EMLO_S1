@@ -1,0 +1,4 @@
+outs:
+- md5: 541b2071bda3f07ea5338f60b03ce84e
+  size: 537153398
+  path: model.ckpt
